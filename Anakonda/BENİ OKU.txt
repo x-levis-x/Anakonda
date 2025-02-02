@@ -1,0 +1,45 @@
+KURALLAR
+Merhaba,öncelikle anakonda kötü amçla yapılmamış bir eğlence uygulamasıdır.
+//
+Sadece windows işletim sistemleri uygulamamızı çalıştırabilir.
+//
+Kötüye kullanım karşısında sorumluluk geliştiricide katiyen bulunmaz
+//
+Uygulamamızı kullanan kişi veya kişiler bu txt dosyasındakileri kabul eder ve onaylar.
+//
+Bilgisayarınıza verilen hasar kullanıcı sorumluluğunda olup uygulamamız kullanıcıya sormadan hiçbir işlem yapmaz.
+----------------------------------------------------------------------------------------------------------
+KULLANIM
+Anakonda klasörünü rardan çıkarıp masaüstünüze atın
+//
+Anakondayı çalıştırın.(Sifre resetleme,bilgisayar aygitlari ve interneti kapa komutu çalıştıracaksanız yönetici izni ile çalıştırın onun dışında normal çalıştırın)
+//
+İstediğiniz işlemi seçin ve keyfini çıkarın.
+//
+Anakonda2 Anakondanın devamıdır kodda hatalar oluşmaya başladığından 2.bir bat dosyasına geçtim.
+----------------------------------------------------------------------------------------------------------
+HANGİ KOMUT NE İŞE YARAR ?
+fork bomb:bilgisayarın cpu limitini doldurur ve bilgisayarı çökertir.
+//
+cmd spam:birsürü spam cmd,not defteri ve diğer uygulamaları açar.
+//
+dosya spam:masaüstüne spam birsürü dosya oluşturur.
+//
+tramvay:süpriz olsun zararsız bir komuttur.
+//
+masaustu temizliği:masaüstündeki herseyi kalıcı olarak siler pek tavsiye etmem ayrıca çalışma ihtimali düşüktür.
+//
+ekrani boz:ekranı bozar DİKKAT!! Bu komut ciddidir çalıştırdıktan sonra format atmanız gerekebilir...
+//
+sifrereset:şifreyi değiştirir yeni şifreyi fayujxquarex olarak belirler.
+//
+bilgisayar aygitlari:Bigisayardaki çoğu servisi açar
+//
+interneti kapa:İnterneti devre dışı bırakır(Tamamen devre dışı bırakmaz sorun giderici ile çözebilirsiniz)
+----------------------------------------------------------------------------------------------------------
+
+Uygulamamız geliştirilme aşamasında olduğundan bazı komutlar çalışmayabilir anlayışınız için teşekkürler.
+
+
+GELİŞTİRİCİ-Levis
+t.me/kindless_09
